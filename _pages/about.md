@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Praharsha brings you the finest works of ancient and modern literature in an elegant and accessible form. #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
